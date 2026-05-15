@@ -55,11 +55,11 @@ physics_calculator/
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 Run the program
-
-bash
 python main.py
-🧪 Example session
-text
+```
+
+## 🧪 Example session
+```
 === PHYSICS CALCULATOR ===
 1. Mechanics
 2. Electricity
@@ -67,9 +67,9 @@ text
 4. Optics
 0. Exit
 Pick a section, then a subsection, then a formula. Enter the values and get the result.
+```
+## 👨‍💻 Author
+@miousa
 
-👨‍💻 Author
-[Your name] – @YOUR_USERNAME
-
-📄 License
+## 📄 License
 Educational project. Free to use.
