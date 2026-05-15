@@ -1,22 +1,22 @@
 # ⚛️ Physics Calculator
 
-Консольное приложение на Python для расчёта физических формул по разделам: механика, электричество, термодинамика, оптика.
+A console‑based Python app that calculates physics formulas: Mechanics, Electricity, Thermodynamics, and Optics.
 
-## 🚀 Возможности
+## 🚀 Features
 
-- Механика (кинематика, динамика, статика, законы сохранения)
-- Электричество (закон Ома, мощность, Джоуль–Ленц, соединения проводников)
-- Термодинамика (нагревание, сгорание, фазовые переходы)
-- Оптика (формула тонкой линзы, оптическая сила)
-- Удобное меню навигации
-- Проверка ввода (только числа, положительные значения, возможность отрицательных)
+- **Mechanics** – kinematics, dynamics, statics, conservation laws
+- **Electricity** – Ohm's law, power, Joule–Lenz, resistor circuits
+- **Thermodynamics** – heating, combustion, phase transitions
+- **Optics** – thin lens formula, optical power
+- Simple menu‑driven navigation
+- Input validation (positive, non‑negative, or any float depending on the formula)
 
-## 🛠️ Технологии
+## 🛠️ Tech stack
 
 - Python 3.10+
-- Только стандартная библиотека
+- Only the standard library
 
-## 📁 Структура проекта
+## 📁 Project structure
 ```
 physics_calculator/
 ├── main.py
@@ -47,27 +47,29 @@ physics_calculator/
 └── lenses.py
 ```
 
-## ▶️ Запуск
 
-1. Склонируйте репозиторий
-```
+## ▶️ How to run
+
+1. Clone the repository
+```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
-```
-Запустите программу
+Run the program
+
+bash
 python main.py
-🧪 Пример использования
-```
+🧪 Example session
+text
 === PHYSICS CALCULATOR ===
 1. Mechanics
 2. Electricity
 3. Thermodynamics
 4. Optics
 0. Exit
-Выберите раздел, затем подраздел и формулу. Введите значения — получите результат.
-```
-👨‍💻 Автор
-[Name] — @miousa
+Pick a section, then a subsection, then a formula. Enter the values and get the result.
 
-📄 Лицензия
-Учебный проект. Свободное использование.
+👨‍💻 Author
+[Your name] – @YOUR_USERNAME
+
+📄 License
+Educational project. Free to use.
