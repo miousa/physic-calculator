@@ -56,9 +56,8 @@ cd YOUR_REPO
 ```
 Запустите программу
 python main.py
-```
 🧪 Пример использования
-text
+```
 === PHYSICS CALCULATOR ===
 1. Mechanics
 2. Electricity
